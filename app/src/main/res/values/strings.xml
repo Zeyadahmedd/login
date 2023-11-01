@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="login">login</string>
+    <string name="user_name">user name</string>
+    <string name="your_name">your name</string>
+    <string name="your_password">your password</string>
+    <string name="go">go</string>
+</resources>
